@@ -14,11 +14,11 @@
 
 ## 👤 テストアカウント（閲覧用）
 - 一般ユーザー  
-  Email: test@example.com  
-  Password: password123  
+  Email: user@example.com 
+  Password: password 
 - 管理者ユーザー  
   Email: admin@example.com  
-  Password: password123  
+  Password: password
 
 ## 🛠 使用技術
 - PHP 8.2 / Laravel 10.x
