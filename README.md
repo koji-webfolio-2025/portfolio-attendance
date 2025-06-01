@@ -14,7 +14,7 @@
 
 ## 👤 テストアカウント（閲覧用）
 - 一般ユーザー  
-  Email: user@example.com 
+  Email: user@example.com  
   Password: password 
 - 管理者ユーザー  
   Email: admin@example.com  
